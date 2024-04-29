@@ -1,0 +1,30 @@
+{
+  "name": "twitter-web-scrapping",
+  "version": "1.0.0",
+  "description": "Twitter Web scrapping",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon run server.js"
+  },
+  "keywords": [
+    "Twitter",
+    "Web",
+    "Scrapping",
+    "Twitter",
+    "Web",
+    "Scrapping",
+    "Puppeteer"
+  ],
+  "author": "Edgar Tinkamanyire",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2",
+    "nodemailer": "^6.9.13",
+    "nodemon": "^3.1.0",
+    "pg": "^8.11.5",
+    "puppeteer": "^22.7.1"
+  }
+}
